@@ -1,0 +1,7 @@
+python3.8-venv
+"apache-airflow[celery]==2.2.5" --constraint https://raw.githubusercontent.com/apache/airflow/constraints-2.2.5/constraints-3.8.txt
+mlflow
+jupyter
+scrapy attrs
+JVM
+python-youtube
