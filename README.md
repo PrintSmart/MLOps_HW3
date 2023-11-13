@@ -6,10 +6,16 @@
 2. Поставить задачу для алгоритма машинного обучения, выбрать модель и метрику (4 балла).
 
 3. Создать инфраструктуру, например, виртуальные машины virtualbox, установить и настроить для работы необходимое программное обеспечение, в том числе airflow и mlflow, а также venv для организации работы виртуального окружения (5 баллов).
+      <img src="https://github.com/PrintSmart/MLOps_HW3/blob/main/screen/VB.JPG" />
+Виртуальная машина
       <img src="https://github.com/PrintSmart/MLOps_HW3/blob/main/screen/venv.JPG" />
 Виртуальное окружение
+      <img src="https://github.com/PrintSmart/MLOps_HW3/blob/main/screen/af.JPG" />
+airflow
+      <img src="https://github.com/PrintSmart/MLOps_HW3/blob/main/screen/mlf.JPG" />
+mlflow
 
-4. Создать python скрипты для (6 баллов):
+5. Создать python скрипты для (6 баллов):
 
 получения данных из внешнего источника,
 преобразования данных,
